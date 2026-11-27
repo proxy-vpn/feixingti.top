@@ -1,4 +1,4 @@
-# 飞星梯（FEIXINGTI）
+# 飞星梯（FEIXINGTI）|feixingti.top
 
 飞星梯面向**个人用户、开发者与内容爱好者**，主打轻快上手与性价比：一条订阅链接全设备通用，Clash / Shadowrocket / V2Ray / sing-box 一键导入；入门档位月付起售，先用一个月合适再续。
 
